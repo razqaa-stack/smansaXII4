@@ -1,222 +1,443 @@
 {
-  "metadata": {
-    "kelas": "XII.4",
-    "jumlah_siswa": 36,
-    "updated": "2026-08-17T08:19:31.101Z"
-  },
-  "siswa": [
+  "kelases": [
+    "XII.4"
+  ],
+  "siswas": [
     {
-      "id": 1786954549944,
+      "id": 1786961300754,
       "nama": "AMELIA FITRI",
       "nohp": "081949451698",
       "kelas": "XII.4"
     },
     {
-      "id": 1786954549945,
+      "id": 1786961300755,
       "nama": "ANDHARA QUINSA",
       "nohp": "082171295891",
       "kelas": "XII.4"
     },
     {
-      "id": 1786954549946,
+      "id": 1786961300757,
       "nama": "AURA SYAFITRI",
       "nohp": "083182407109",
       "kelas": "XII.4"
     },
     {
-      "id": 1786954549947,
+      "id": 1786961300758,
       "nama": "AYU SARI BANIA",
       "nohp": "083139489060",
       "kelas": "XII.4"
     },
     {
-      "id": 1786954549948,
+      "id": 1786961300759,
       "nama": "AZAM FADILAH",
       "nohp": "0895609097022",
       "kelas": "XII.4"
     },
     {
-      "id": 1786954549949,
+      "id": 1786961300760,
       "nama": "BUANA MUTIARA AFIFA. B",
       "nohp": "081261643837",
       "kelas": "XII.4"
     },
     {
-      "id": 1786954549950,
+      "id": 1786961300761,
       "nama": "DAVA PRATAMA SETIAWAN",
       "nohp": "-",
       "kelas": "XII.4"
     },
     {
-      "id": 1786954549951,
+      "id": 1786961300763,
       "nama": "ELSA PUTRI RAMADHANI",
       "nohp": "082173214344",
       "kelas": "XII.4"
     },
     {
-      "id": 1786954549952,
+      "id": 1786961300764,
       "nama": "FARISA RAEKHANATUL QOLBI",
       "nohp": "082339676944",
       "kelas": "XII.4"
     },
     {
-      "id": 1786954549953,
+      "id": 1786961300765,
       "nama": "GILANG RAMADHAN",
       "nohp": "08995606822",
       "kelas": "XII.4"
     },
     {
-      "id": 1786954549954,
+      "id": 1786961300766,
       "nama": "HABIBULLAH",
       "nohp": "08994718800",
       "kelas": "XII.4"
     },
     {
-      "id": 1786954549955,
+      "id": 1786961300767,
       "nama": "HANUM FEBRI DWIVA",
       "nohp": "082170691067",
       "kelas": "XII.4"
     },
     {
-      "id": 1786954549956,
+      "id": 1786961300769,
       "nama": "HAURA A. GAZALI",
       "nohp": "081374632727",
       "kelas": "XII.4"
     },
     {
-      "id": 1786954549957,
+      "id": 1786961300770,
       "nama": "HAWRA THEONA",
       "nohp": "082285860606",
       "kelas": "XII.4"
     },
     {
-      "id": 1786954549958,
+      "id": 1786961300771,
       "nama": "JIHAN PUTRI SUGARA",
       "nohp": "085274900757",
       "kelas": "XII.4"
     },
     {
-      "id": 1786954549959,
+      "id": 1786961300772,
       "nama": "JINGGA GHANIYAH",
       "nohp": "082285383364",
       "kelas": "XII.4"
     },
     {
-      "id": 1786954549960,
+      "id": 1786961300773,
       "nama": "KALISHA FAJRIKA NUGRAHA",
       "nohp": "081266814100",
       "kelas": "XII.4"
     },
     {
-      "id": 1786954549961,
+      "id": 1786961300774,
       "nama": "KALISTA ATIFAH ULYA EFRIZON",
       "nohp": "081389598737",
       "kelas": "XII.4"
     },
     {
-      "id": 1786954549962,
+      "id": 1786961300776,
       "nama": "KEZYA FADILAH MORAN",
       "nohp": "082384381364",
       "kelas": "XII.4"
     },
     {
-      "id": 1786954549963,
+      "id": 1786961300777,
       "nama": "MARSHA PUTRI SALSABILLA",
       "nohp": "085274665733",
       "kelas": "XII.4"
     },
     {
-      "id": 1786954549964,
+      "id": 1786961300778,
       "nama": "MIRANTI",
       "nohp": "082170193130",
       "kelas": "XII.4"
     },
     {
-      "id": 1786954549965,
+      "id": 1786961300779,
       "nama": "MUHAMMAD ADITYA",
       "nohp": "083188408209",
       "kelas": "XII.4"
     },
     {
-      "id": 1786954549966,
+      "id": 1786961300780,
       "nama": "MUHAMMAD FADHIL AKBAR",
       "nohp": "082339036244",
       "kelas": "XII.4"
     },
     {
-      "id": 1786954549967,
+      "id": 1786961300781,
       "nama": "MUHAMMAD NAUVAL ALGAZI",
       "nohp": "-",
       "kelas": "XII.4"
     },
     {
-      "id": 1786954549968,
+      "id": 1786961300783,
       "nama": "NADIN ASSHIFA MANHA",
       "nohp": "085355637021",
       "kelas": "XII.4"
     },
     {
-      "id": 1786954549969,
+      "id": 1786961300784,
       "nama": "NASYA HASANAH",
       "nohp": "085664077035",
       "kelas": "XII.4"
     },
     {
-      "id": 1786954549970,
+      "id": 1786961300785,
       "nama": "NAURA KHAIRUNNISAH",
       "nohp": "-",
       "kelas": "XII.4"
     },
     {
-      "id": 1786954549971,
+      "id": 1786961300787,
       "nama": "NAURA MARSHA NATARI",
       "nohp": "081277600670",
       "kelas": "XII.4"
     },
     {
-      "id": 1786954549972,
+      "id": 1786961300788,
       "nama": "PLAYA FLAMENCO",
       "nohp": "085263846543",
       "kelas": "XII.4"
     },
     {
-      "id": 1786954549973,
+      "id": 1786961300789,
       "nama": "RISIDA ULYANI",
       "nohp": "082288074634",
       "kelas": "XII.4"
     },
     {
-      "id": 1786954549974,
+      "id": 1786961300790,
       "nama": "RONI KURNIAWAN",
       "nohp": "085763015408",
       "kelas": "XII.4"
     },
     {
-      "id": 1786954549975,
+      "id": 1786961300791,
       "nama": "SARRA REZKY LYANA",
       "nohp": "081276131779",
       "kelas": "XII.4"
     },
     {
-      "id": 1786954549976,
+      "id": 1786961300793,
       "nama": "SYAMIRANDA AL MAQFIRAH",
       "nohp": "081374212193",
       "kelas": "XII.4"
     },
     {
-      "id": 1786954549977,
+      "id": 1786961300794,
       "nama": "TAJIRA BAKHITA",
       "nohp": "083185678481",
       "kelas": "XII.4"
     },
     {
-      "id": 1786954549978,
+      "id": 1786961300795,
       "nama": "WARDHA ULIL ALBAB",
       "nohp": "085272424086",
       "kelas": "XII.4"
     },
     {
-      "id": 1786954549979,
+      "id": 1786961300796,
+      "nama": "ZACHYA ATHAILA MARISDA",
+      "nohp": "085274408010",
+      "kelas": "XII.4"
+    }
+  ],
+  "metadata": {
+    "kelas": "XII.4",
+    "jumlah_siswa": 36,
+    "updated": "2026-08-17T10:09:59.350Z"
+  },
+  "siswa": [
+    {
+      "id": 1786961300754,
+      "nama": "AMELIA FITRI",
+      "nohp": "081949451698",
+      "kelas": "XII.4"
+    },
+    {
+      "id": 1786961300755,
+      "nama": "ANDHARA QUINSA",
+      "nohp": "082171295891",
+      "kelas": "XII.4"
+    },
+    {
+      "id": 1786961300757,
+      "nama": "AURA SYAFITRI",
+      "nohp": "083182407109",
+      "kelas": "XII.4"
+    },
+    {
+      "id": 1786961300758,
+      "nama": "AYU SARI BANIA",
+      "nohp": "083139489060",
+      "kelas": "XII.4"
+    },
+    {
+      "id": 1786961300759,
+      "nama": "AZAM FADILAH",
+      "nohp": "0895609097022",
+      "kelas": "XII.4"
+    },
+    {
+      "id": 1786961300760,
+      "nama": "BUANA MUTIARA AFIFA. B",
+      "nohp": "081261643837",
+      "kelas": "XII.4"
+    },
+    {
+      "id": 1786961300761,
+      "nama": "DAVA PRATAMA SETIAWAN",
+      "nohp": "-",
+      "kelas": "XII.4"
+    },
+    {
+      "id": 1786961300763,
+      "nama": "ELSA PUTRI RAMADHANI",
+      "nohp": "082173214344",
+      "kelas": "XII.4"
+    },
+    {
+      "id": 1786961300764,
+      "nama": "FARISA RAEKHANATUL QOLBI",
+      "nohp": "082339676944",
+      "kelas": "XII.4"
+    },
+    {
+      "id": 1786961300765,
+      "nama": "GILANG RAMADHAN",
+      "nohp": "08995606822",
+      "kelas": "XII.4"
+    },
+    {
+      "id": 1786961300766,
+      "nama": "HABIBULLAH",
+      "nohp": "08994718800",
+      "kelas": "XII.4"
+    },
+    {
+      "id": 1786961300767,
+      "nama": "HANUM FEBRI DWIVA",
+      "nohp": "082170691067",
+      "kelas": "XII.4"
+    },
+    {
+      "id": 1786961300769,
+      "nama": "HAURA A. GAZALI",
+      "nohp": "081374632727",
+      "kelas": "XII.4"
+    },
+    {
+      "id": 1786961300770,
+      "nama": "HAWRA THEONA",
+      "nohp": "082285860606",
+      "kelas": "XII.4"
+    },
+    {
+      "id": 1786961300771,
+      "nama": "JIHAN PUTRI SUGARA",
+      "nohp": "085274900757",
+      "kelas": "XII.4"
+    },
+    {
+      "id": 1786961300772,
+      "nama": "JINGGA GHANIYAH",
+      "nohp": "082285383364",
+      "kelas": "XII.4"
+    },
+    {
+      "id": 1786961300773,
+      "nama": "KALISHA FAJRIKA NUGRAHA",
+      "nohp": "081266814100",
+      "kelas": "XII.4"
+    },
+    {
+      "id": 1786961300774,
+      "nama": "KALISTA ATIFAH ULYA EFRIZON",
+      "nohp": "081389598737",
+      "kelas": "XII.4"
+    },
+    {
+      "id": 1786961300776,
+      "nama": "KEZYA FADILAH MORAN",
+      "nohp": "082384381364",
+      "kelas": "XII.4"
+    },
+    {
+      "id": 1786961300777,
+      "nama": "MARSHA PUTRI SALSABILLA",
+      "nohp": "085274665733",
+      "kelas": "XII.4"
+    },
+    {
+      "id": 1786961300778,
+      "nama": "MIRANTI",
+      "nohp": "082170193130",
+      "kelas": "XII.4"
+    },
+    {
+      "id": 1786961300779,
+      "nama": "MUHAMMAD ADITYA",
+      "nohp": "083188408209",
+      "kelas": "XII.4"
+    },
+    {
+      "id": 1786961300780,
+      "nama": "MUHAMMAD FADHIL AKBAR",
+      "nohp": "082339036244",
+      "kelas": "XII.4"
+    },
+    {
+      "id": 1786961300781,
+      "nama": "MUHAMMAD NAUVAL ALGAZI",
+      "nohp": "-",
+      "kelas": "XII.4"
+    },
+    {
+      "id": 1786961300783,
+      "nama": "NADIN ASSHIFA MANHA",
+      "nohp": "085355637021",
+      "kelas": "XII.4"
+    },
+    {
+      "id": 1786961300784,
+      "nama": "NASYA HASANAH",
+      "nohp": "085664077035",
+      "kelas": "XII.4"
+    },
+    {
+      "id": 1786961300785,
+      "nama": "NAURA KHAIRUNNISAH",
+      "nohp": "-",
+      "kelas": "XII.4"
+    },
+    {
+      "id": 1786961300787,
+      "nama": "NAURA MARSHA NATARI",
+      "nohp": "081277600670",
+      "kelas": "XII.4"
+    },
+    {
+      "id": 1786961300788,
+      "nama": "PLAYA FLAMENCO",
+      "nohp": "085263846543",
+      "kelas": "XII.4"
+    },
+    {
+      "id": 1786961300789,
+      "nama": "RISIDA ULYANI",
+      "nohp": "082288074634",
+      "kelas": "XII.4"
+    },
+    {
+      "id": 1786961300790,
+      "nama": "RONI KURNIAWAN",
+      "nohp": "085763015408",
+      "kelas": "XII.4"
+    },
+    {
+      "id": 1786961300791,
+      "nama": "SARRA REZKY LYANA",
+      "nohp": "081276131779",
+      "kelas": "XII.4"
+    },
+    {
+      "id": 1786961300793,
+      "nama": "SYAMIRANDA AL MAQFIRAH",
+      "nohp": "081374212193",
+      "kelas": "XII.4"
+    },
+    {
+      "id": 1786961300794,
+      "nama": "TAJIRA BAKHITA",
+      "nohp": "083185678481",
+      "kelas": "XII.4"
+    },
+    {
+      "id": 1786961300795,
+      "nama": "WARDHA ULIL ALBAB",
+      "nohp": "085272424086",
+      "kelas": "XII.4"
+    },
+    {
+      "id": 1786961300796,
       "nama": "ZACHYA ATHAILA MARISDA",
       "nohp": "085274408010",
       "kelas": "XII.4"
